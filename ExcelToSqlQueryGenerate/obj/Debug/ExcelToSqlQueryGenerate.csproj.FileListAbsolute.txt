@@ -1,0 +1,11 @@
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.csprojResolveAssemblyReference.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\bin\Debug\ExcelToSqlQueryGenerate.exe.config
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\bin\Debug\ExcelToSqlQueryGenerate.exe
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\bin\Debug\ExcelToSqlQueryGenerate.pdb
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.csproj.ResolveComReference.cache
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.exe
+C:\Users\Tanzirul Haque Nayan\Desktop\ExcelToSqlQueryGenerate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.pdb
+D:\GitHub\Excel-to-SQL-Query-Generate\ExcelToSqlQueryGenerate\bin\Debug\ExcelToSqlQueryGenerate.exe.config
+D:\GitHub\Excel-to-SQL-Query-Generate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.csproj.ResolveComReference.cache
+D:\GitHub\Excel-to-SQL-Query-Generate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.exe
+D:\GitHub\Excel-to-SQL-Query-Generate\ExcelToSqlQueryGenerate\obj\Debug\ExcelToSqlQueryGenerate.pdb
